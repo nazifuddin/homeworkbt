@@ -1,0 +1,25 @@
+body {
+    background-color: #cdc3c3;
+    text-align: center;
+}
+
+.header,
+.hero,
+.body,
+.bar,
+.footer {
+    background-color: gray;
+    margin-bottom: 8px;
+}
+
+.box {
+    margin: 10px 0px;
+    min-height: 80px;
+    background-color: #9db98f;
+    font-size: 30px;
+    color: white;
+}
+
+.red {
+    background-color: red;
+}
